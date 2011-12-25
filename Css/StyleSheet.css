@@ -1,0 +1,140 @@
+﻿@import url('Reset.css');
+
+body
+{
+ margin: 0px auto;
+ padding: 0px;
+ height:100%; 
+ font-size:12px; 
+}
+
+html,body {
+ font:13px tahoma, arial, san-serif;
+ color:#7e7e7e;
+ width:100%;
+ background:#333;
+ background:#000; 
+ height:100%;
+ text-align:center;
+ line-height:16px;
+ margin:0;
+ padding:0;
+}
+
+
+a{
+ color:#F9A01B; 
+ text-decoration:none;
+}
+
+a:hover{ 
+ text-decoration:underline;
+}
+
+span {
+ color:#F9A01B;
+}
+
+
+div.main {
+ width:950px;
+ margin:0 auto;
+ height:100%;
+ padding:0;
+ text-align:left;  
+ }
+
+div.page {
+ width:100%;
+ float:left;
+ height:100%;
+}
+
+div.copy {
+ float:left; 
+ height:100%; 
+}
+
+h1 {
+ padding:30px 0 0 0;
+ color:#F9A01B;
+ text-shadow: #fff 1px 1px 1px;
+ font-size:20px;
+}
+
+p {
+ color:#fff;
+ line-height:18px; 
+ padding:5px 0;
+}
+
+div.side1 {
+ float:left;
+ width:425px;
+ clear:right;
+ padding:20px 20px 0 0;
+}
+
+div.bottom1 { 
+ width:100%;  
+ float:left;
+ height:100%; 
+}
+
+div.contact {
+ float:left;
+ padding:50px 0 0 0;
+ text-shadow: 1px 1px 1px #000;
+ width:450px;
+}
+
+ul.list1 {
+ float:left;
+ padding:2em 0 0 0;
+ width:100%;
+}
+
+ul.list1 li {
+ float:left;
+ padding:2px 0;
+ margin:0;
+ width:100%;
+}
+
+ul.list1 li a.a1{
+ float:left;
+ padding:2em 0 0 0;
+ width:100px;
+}
+
+ul.list1 li a img {
+ display:block;
+}
+
+ul.list1 li div {
+ float: left;
+ font-weight:normal;
+ padding: 0 0 0 25px;
+ width: 380px;
+}
+
+div.test {
+ float:right;
+}
+
+div.footer {
+ float:left;
+ width:100%;
+ padding:30px 0;
+ background:#F9A01B;
+}
+
+div.footerwrap {
+ text-align:left;
+ width:980px;
+ margin:0 auto;
+}
+
+div.footerwrap p {
+ color:#000;
+}
